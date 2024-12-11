@@ -73,7 +73,7 @@ Here are some of the platforms I frequently use for development:
 - 🛠️ **Software Tools**: Experimenting with developer tools like **Docker** and **Git**.
 
 ---
-
+![GitHub Activity](https://img.shields.io/github/commit-activity/w/ripudamanss/ripudamanss)
 ---
 
 ## 📫 Let's Connect!
