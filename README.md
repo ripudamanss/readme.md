@@ -24,6 +24,20 @@ Here are some of the tools, frameworks, and languages I've used:
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)](https://swift.org)
 
+## 🐍 Python Modules I've Worked With
+Here are some of the Python modules I've worked with:
+
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-003366?logo=matplotlib&logoColor=white&style=for-the-badge)](https://matplotlib.org/)
+[![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)](https://opencv.org/)
+[![PyJoke](https://img.shields.io/badge/-PyJoke-9b59b6?logo=python&logoColor=white&style=for-the-badge)](https://pypi.org/project/pyjoke/)
+
+And many more!
+
+
 ### **Technologies**
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
@@ -37,7 +51,18 @@ Here are some of the tools, frameworks, and languages I've used:
 ### **Miscellaneous**
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)](https://pytorch.org/)
 
+
+## 🖥️ Platforms I Use
+Here are some of the platforms I frequently use for development:
+
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/pycharm/)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)](https://jupyter.org/)
+
+## 🌍 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripudamanss&layout=compact&theme=radical)
 
 ---
 
